@@ -24,6 +24,7 @@ main {
     margin-top: 1%;
     width: 50em;
     height: 2em;
+    border-radius: 15px;
 }
 
 img {
