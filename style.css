@@ -48,6 +48,7 @@ li {
 #sign-in {
     background-color: rgb(49, 113, 152);
     color: azure;
+    margin-left: .5em;
     padding: .75em 1.75em;
     border-radius: 10%;
     border: none;
